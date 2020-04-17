@@ -41,7 +41,6 @@
 <developerConnection>scm:svn:http://192.168.33.11:8081/subversion/</developerConnection>
 </scm>
 <distributionManagement>
-<distributionManagement>
     <snapshotRepository>
       <id>nexus-snapshots</id>
       <url>http://localhost:8081/repository/maven-snapshots/</url>
